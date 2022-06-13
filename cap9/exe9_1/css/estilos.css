@@ -19,7 +19,10 @@ body {
 
 }
 
-img.imgProg { width: 100%; }
+.imgProg { 
+    
+    width: 100%; 
+}
 
 
 .tarefaSelecionada { color: red; font-style: italic; }
