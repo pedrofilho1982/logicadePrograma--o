@@ -13,7 +13,7 @@ function adicionarPaciente() {
         return;
     }
 
-    pacientes.push(nome); //adiciona o nome no final do vetor in
+    pacientes.push(nome);
 
     var lista = ""; //string para concatenar pacientes
 
